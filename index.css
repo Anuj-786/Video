@@ -2,5 +2,19 @@ body {
 
 }
 .logo {
-	text-align: center;
+    margin-top: 50px;
+  }
+.logo h3 {
+  margin: 0px;
+  font-weight: bold;
+  font-size: 47px;
+}
+.col.s11.col.m9.offset-m3.gatepass > h3 {
+    font-size: 60px;
+}
+.col.s12.col.m12.manues {
+    margin-top: 35px;
+}
+#home, #about, #get-in-touch {
+  margin-top: 75px;
 }
